@@ -1,9 +1,11 @@
 ##	Checksum Verification Tool
 
-![Alt text](/screenshot.png?raw=true "screenshot")
-![Alt text](/logs.png?raw=true "logs")
-
 This program allows you to calculate the checksums of all files in a directory and subdirectories, and then check them and find modified or deleted files. In the source code, you can change the way the checksum is calculated by different algorithms and libraries (CRC32, SHA1, xxHash).
+
+### Usage
+![Alt text](/screenshot.png?raw=true "screenshot")
+
+![Alt text](/logs.png?raw=true "logs")
 
 ### Usage
 ```
