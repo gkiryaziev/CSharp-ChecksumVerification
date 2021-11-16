@@ -1,7 +1,8 @@
 {
   "profiles": {
     "ChechSum": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "commandLineArgs": "-v"
     }
   }
 }
